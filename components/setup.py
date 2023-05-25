@@ -13,6 +13,6 @@ setup(
     ],
     install_requires=[
         "mlflow",
-        "wandb"
+        "wandb==0.13.3"
     ]
 )
